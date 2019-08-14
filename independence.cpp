@@ -12,12 +12,7 @@ int main(){
     for(; a-- > 64 ; ) putchar ( ++c=='Z' ? c = c/ 9:33^b&1);
     int i = 0;
     cout<<"Happy Independence Day! Jai Hind! Vande Matram -- Shivay Lamba";
-    //Step 1: Compile and run it.
-    //Step 2: Capture screenshot of India Map
-    //Step 3: Copy string between printf brackets line no.8 and paste it on Linkedin with screenshot of your output. Happy Coding ! Jai Hind !🇮🇳
-    //Original Code credits : IOCCC.
-    //This code was modified and written on 14th August at 20:03pm, 2019 at India #LearnInspireGrow 🇮🇳
-        cin.get();
+	cin.get();
 
 	return 0;
 }
